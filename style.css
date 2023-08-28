@@ -1,0 +1,16 @@
+.titlebox{
+    height: 200px;
+    background-color: #0B5351;
+}
+#title{
+    font-size: 50px;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+}
+.imagename{
+    font-size: 22px ;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+}
